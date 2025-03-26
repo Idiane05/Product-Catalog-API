@@ -95,8 +95,3 @@ app.post('/register', async (req, res) => {
     // Product creation logic here
     // Only users with a valid JWT token can access this route
   });
-<<<<<<< HEAD
-  
-=======
-  
->>>>>>> 54dd44ffe7ef3e5c43f1efc8dd345074d39b86d0
