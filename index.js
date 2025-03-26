@@ -75,8 +75,6 @@ app.post('/register', async (req, res) => {
     }
   });
 
-  const jwt = require('jsonwebtoken');
-
   // Middleware to protect routes
   const protect = (req, res, next) => {
     const token = req.header('Authorization')?.split(' ')[1];  // Extract token from Authorization header
