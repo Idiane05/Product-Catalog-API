@@ -8,8 +8,8 @@ const options = {
             version: '1.0.0',
             description: 'A RESTful API for managing product catalog with categories and variants',
             contact: {
-                name: 'KAZE Renoir',
-                url: 'https://github.com/renoir01/Formative-Project---Product-Catalog-API'
+                name: 'Diane INGABIRE',
+                url: 'https://github.com/Idiane05/Product-Catalog-API.git'
             },
             license: {
                 name: 'MIT',
